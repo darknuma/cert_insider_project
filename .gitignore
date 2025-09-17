@@ -5,8 +5,12 @@ build/
 dist/
 wheels/
 *.egg-info
+.DS_Store
+.tmp 
 
 # Virtual environments
 .venv
 r6.2/
+feature-extraction-for-CERT-insider-threat-test-datasets/
+data/
 feature-extraction-for-CERT-insider-threat-test-datasets/
